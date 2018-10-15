@@ -6,7 +6,7 @@ This project works to answer the question: where should an SAT preparation compa
 ## Read my blog post [here]!
 
 ### Files in this repo:
-* [Project Benson.ipynb](Project Benson.ipynb) - initial rough work on data cleaning and visualizing MTA turnstile data
+* [Project Benson.ipynb]("Project Benson.ipynb") - initial rough work on data cleaning and visualizing MTA turnstile data
 * [neighborhood_data.ipynb](neighborhood_data.ipynb) - exploratory data analysis and visualization of neighborhood data collected from the Furman Center
 * [project_benson.pdf](project_benson.pdf) - presentation given at Metis on this subject
 
